@@ -1,2 +1,2 @@
-# Discord_scripts
+# discord_scripts
 Scripts to auto play bots
